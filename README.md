@@ -1,4 +1,5 @@
 ❃❃TWITCH IRC IMPLEMENTATION❃❃
+
 This project has two components to it: BOT and USER
 
 The USER code is designed so as to greet their friends in selected channels via the Twitch chat box, after they have been inactive for more than 6 hours.
